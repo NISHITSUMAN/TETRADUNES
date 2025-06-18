@@ -18,7 +18,7 @@
 ## 🚀 How to Play
 
 1. **Launch my Game Website**
-   - [Play Game here](https://www.sandtrix.net/)
+   - [Play Game here](https://nishitsuman.github.io/TETRADUNES/)
    
 1. **Start the Game**
    - Click one "Play Game"
