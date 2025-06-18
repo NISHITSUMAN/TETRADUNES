@@ -17,6 +17,9 @@
 
 ## 🚀 How to Play
 
+1. **Launch my Game Website**
+   - [Play Game here](https://www.sandtrix.net/)
+   
 1. **Start the Game**
    - Click one "Play Game"
 
